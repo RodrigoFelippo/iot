@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "285824929675",
+    "firebase_url": "https://iot-tutorial-ce820.firebaseio.com",
+    "project_id": "iot-tutorial-ce820",
+    "storage_bucket": "iot-tutorial-ce820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285824929675:android:59464c6536ca905a",
+        "android_client_info": {
+          "package_name": "com.example.rodri.iot_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285824929675-srk2t2bdr7eb2qtnpujra6mp81nmdcd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAby4yl3qNNJ8_7EElIP9WmiPWfO4XOtW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
